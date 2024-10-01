@@ -3,6 +3,8 @@
   "displayName": "yaml-diff",
   "description": "YAML diff with sort",
   "version": "0.0.1",
+  "publisher": "rohitgorana",
+  "icon": "images/icon.jpg",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -60,5 +62,9 @@
     "@vscode/test-electron": "^2.4.1",
     "eslint": "^9.11.1",
     "typescript": "^5.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohitgorana/vscode-yaml-diff.git"
   }
 }
